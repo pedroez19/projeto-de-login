@@ -7,8 +7,8 @@
     }
 
     #login {
-        width: 90vw;
-        height: 280px;
+        width: 60vw;
+        height: 300px;
     }
 
     #login > #imagem {
@@ -30,8 +30,8 @@
     }
     
     #login {
-        width: 950px;
-        height: 410px;
+        width: 800px;
+        height: 325px;
     }
 
     #login > #imagem {
